@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1727812831,,"wq"
+|2,0,1727813249,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  18  ~/master.txt
-|4,48,1,18,1727812831,"~/master.txt"
+'0  1  41  ~/feature.txt
+|4,48,1,41,1727813249,"~/feature.txt"
+'1  1  18  ~/master.txt
+|4,49,1,18,1727812831,"~/master.txt"
 
 # Jumplist (newest first):
+-'  1  41  ~/feature.txt
+|4,39,1,41,1727813249,"~/feature.txt"
+-'  1  18  ~/master.txt
+|4,39,1,18,1727812831,"~/master.txt"
 -'  1  18  ~/master.txt
 |4,39,1,18,1727812831,"~/master.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/feature.txt
+	*	1727813246	0
+	"	1	41
+	^	1	42
+	.	1	42
+	+	1	42
 
 > ~/master.txt
 	*	1727812829	0
